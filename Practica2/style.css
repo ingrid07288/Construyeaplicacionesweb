@@ -1,0 +1,65 @@
+#mybody{
+background-color: hotpink;    
+}
+#myh1{
+    color: #bc9ff3;
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+}
+#myh2{
+    color: aqua;
+    text-align: end;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#myh3{
+    color: rgb(120, 105, 255);
+    text-align: inherit;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#myh4{
+    color: rgb(210, 250, 220);
+    text-align: right;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#myh5{
+    color: rgb(247, 248, 190);
+    text-align: unset;
+    font-size: 18px;
+    font-family: fantasy;
+}
+#myh6{
+    color: rgb(247, 192, 185);
+    text-align: justify;
+    font-size: 12px;
+    font-family: monospace;
+}
+#mydiv{
+    background-color: rgb(55, 199, 55);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+.biografia{
+    background-color: rgb(201, 188, 233);
+    max-width: 400px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;  
+}
+.dato{
+    margin: 10px 0;
+    font-size: 18px;
+    
+}
+.etiqueta{
+    font-weight: bold;
+    color: rgb(219, 219, 87);
+}
+.valor{
+    color: darkslateblue;
+}
